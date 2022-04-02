@@ -1,0 +1,4 @@
+this is G M C Demo
+Git 
+Merge
+Conflicts 
